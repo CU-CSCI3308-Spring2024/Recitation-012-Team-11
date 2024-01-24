@@ -1,6 +1,6 @@
 Team<Firstname> <Lastname> - <Github username>
 
-Jason Hunter - jasonhunter95
+Person 1: Jason Hunter - jasonhunter95
 
-Prachi Soni - prso4895
+Person 2: Prachi Soni - prso4895
 
