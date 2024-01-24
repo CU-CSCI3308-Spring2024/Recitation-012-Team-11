@@ -1,6 +1,5 @@
-Team<Firstname> <Lastname> - <Github username>
+# Recitation-012-Team-11
 
-Person 1: Jason Hunter - jasonhunter95
+Jason Hunter - jasonhunter95
 
-Person 2: Prachi Soni - prso4895
-
+Prachi Soni - prso4895
